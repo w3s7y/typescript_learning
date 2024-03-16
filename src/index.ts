@@ -1,4 +1,3 @@
-var message: String = "Hello World";
+var message: string = "Hello World";
 
 console.log(message);
-
